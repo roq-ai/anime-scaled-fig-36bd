@@ -1,0 +1,2492 @@
+[
+  {
+    "figure_inventory": [
+      {
+        "id": "495bdd51-2974-4a09-8d38-04b5b664c69a",
+        "figure_name": "Superhero",
+        "created_at": "2023-08-31T17:47:36.258Z",
+        "updated_at": "2023-09-01T05:56:41.880Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "c7f81203-8e2c-4fa6-9827-46eabffa4bfe",
+        "figure_name": "Fantasy",
+        "created_at": "2023-09-01T02:26:14.917Z",
+        "updated_at": "2023-09-01T03:43:38.434Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "6155a12c-f72e-4f08-8cb2-892b8644cd29",
+        "figure_name": "Sci-Fi",
+        "created_at": "2023-09-01T07:56:03.234Z",
+        "updated_at": "2023-08-31T21:00:09.751Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "06ec455c-9e16-426a-9873-3c608eb00bce",
+        "figure_name": "Anime",
+        "created_at": "2023-08-31T20:17:37.932Z",
+        "updated_at": "2023-08-31T22:02:34.226Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "5161ebdb-ae19-44a4-b110-010bf3eb4c25",
+        "figure_name": "Cartoon",
+        "created_at": "2023-08-31T19:29:43.687Z",
+        "updated_at": "2023-08-31T19:51:35.737Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "3cd353a4-7ae8-45f4-b567-066634abf379",
+        "sales_count": 75968,
+        "created_at": "2023-08-31T10:58:10.591Z",
+        "updated_at": "2023-08-31T15:04:27.456Z",
+        "figure_id": "c7f81203-8e2c-4fa6-9827-46eabffa4bfe",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "24e289c3-9514-499e-a3ac-20039c423294",
+        "sales_count": 46131,
+        "created_at": "2023-09-01T06:42:40.067Z",
+        "updated_at": "2023-09-01T03:31:13.732Z",
+        "figure_id": "06ec455c-9e16-426a-9873-3c608eb00bce",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "10235415-8556-425f-ac55-fce4d000aea7",
+        "sales_count": 50689,
+        "created_at": "2023-09-01T05:16:33.666Z",
+        "updated_at": "2023-08-31T13:17:20.318Z",
+        "figure_id": "06ec455c-9e16-426a-9873-3c608eb00bce",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "6e183198-9517-4e6d-8b91-e8628222490a",
+        "sales_count": 19741,
+        "created_at": "2023-09-01T06:01:44.865Z",
+        "updated_at": "2023-09-01T01:31:58.216Z",
+        "figure_id": "6155a12c-f72e-4f08-8cb2-892b8644cd29",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "ff21149c-19bb-4da3-b4dc-08a31a5d050e",
+        "sales_count": 98316,
+        "created_at": "2023-08-31T20:22:15.928Z",
+        "updated_at": "2023-08-31T16:46:50.159Z",
+        "figure_id": "495bdd51-2974-4a09-8d38-04b5b664c69a",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "e72d4c88-a5e3-4a73-a08e-1276d4fb05ff",
+        "purchase_date": "2023-09-01T05:41:39.936Z",
+        "created_at": "2023-08-31T17:22:52.761Z",
+        "updated_at": "2023-08-31T10:06:23.739Z",
+        "figure_id": "6155a12c-f72e-4f08-8cb2-892b8644cd29",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6014d80c-66a0-45ed-9c8c-89d2c361e9c8",
+        "purchase_date": "2023-08-31T19:41:48.318Z",
+        "created_at": "2023-08-31T17:38:23.122Z",
+        "updated_at": "2023-08-31T21:29:08.552Z",
+        "figure_id": "06ec455c-9e16-426a-9873-3c608eb00bce",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6833ad47-4af6-48af-841a-3eca9f78f6db",
+        "purchase_date": "2023-08-31T19:00:07.136Z",
+        "created_at": "2023-08-31T19:08:57.538Z",
+        "updated_at": "2023-08-31T22:12:31.273Z",
+        "figure_id": "c7f81203-8e2c-4fa6-9827-46eabffa4bfe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6007845-ec98-40e7-83ca-4ab56c0f4712",
+        "purchase_date": "2023-08-31T16:12:28.658Z",
+        "created_at": "2023-08-31T14:38:05.687Z",
+        "updated_at": "2023-08-31T21:09:46.576Z",
+        "figure_id": "5161ebdb-ae19-44a4-b110-010bf3eb4c25",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44c542d4-62d5-4149-8409-07f868711856",
+        "purchase_date": "2023-09-01T02:05:56.654Z",
+        "created_at": "2023-08-31T19:58:47.629Z",
+        "updated_at": "2023-08-31T16:48:08.482Z",
+        "figure_id": "495bdd51-2974-4a09-8d38-04b5b664c69a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "c672d680-1129-43d9-ab3c-6be73e8e8e12",
+        "topic": "Favorite Books",
+        "created_at": "2023-09-01T05:54:00.122Z",
+        "updated_at": "2023-09-01T02:03:50.349Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "644b4fac-5496-48a8-b52f-d3b638f318b1",
+        "topic": "Fashion Trends",
+        "created_at": "2023-08-31T10:57:12.450Z",
+        "updated_at": "2023-08-31T15:16:07.160Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "466ec8f9-40c0-4ca1-a004-3e1514e38e0f",
+        "topic": "Antique Finds",
+        "created_at": "2023-09-01T09:01:33.430Z",
+        "updated_at": "2023-08-31T16:10:01.815Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7377c898-76c6-421e-a440-1928c6294b1d",
+        "topic": "Delicious Recipes",
+        "created_at": "2023-09-01T02:52:43.876Z",
+        "updated_at": "2023-08-31T12:44:37.276Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f728a70-51bc-4e10-8e7f-5f570e07ad04",
+        "topic": "Pet Care Tips",
+        "created_at": "2023-08-31T10:09:08.130Z",
+        "updated_at": "2023-08-31T21:54:30.683Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "3a76006a-2e8e-47ef-95fb-829d4f8316bc",
+        "collection_list": "Action Figures",
+        "wish_list": "Comic Books",
+        "created_at": "2023-09-01T05:33:14.665Z",
+        "updated_at": "2023-08-31T23:09:22.293Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fdabf29-0f3d-48e4-944c-cab9bb3266a5",
+        "collection_list": "Rare Coins",
+        "wish_list": "Rare Vinyl Records",
+        "created_at": "2023-08-31T12:09:46.008Z",
+        "updated_at": "2023-08-31T23:49:47.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebe55437-f876-4056-bc3e-f8e23db06738",
+        "collection_list": "Vintage Stamps",
+        "wish_list": "Antique Furniture",
+        "created_at": "2023-08-31T15:58:06.308Z",
+        "updated_at": "2023-08-31T22:15:12.556Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f749d4fc-7fcc-49b2-85fe-1dc6f5567507",
+        "collection_list": "Artwork",
+        "wish_list": "Fine Jewelry",
+        "created_at": "2023-08-31T22:48:41.397Z",
+        "updated_at": "2023-09-01T07:26:01.239Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "080c40f0-6cf0-4d67-b948-628c11e29da3",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Classic Cars",
+        "created_at": "2023-09-01T06:35:30.588Z",
+        "updated_at": "2023-08-31T19:39:14.627Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b2306c51-b06d-4240-8bf7-ee917fe80776",
+        "email": "Myriam.Turner34@gmail.com",
+        "firstName": "Tommie",
+        "lastName": "Goldner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "08cbe138-ce40-4eb0-9f97-b18e0d5265c5",
+        "email": "Terrill24@hotmail.com",
+        "firstName": "Leonie",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18409064",
+        "tenantId": null
+      },
+      {
+        "reference": "a4a7fed7-f69c-4520-80db-ae596e4dab2f",
+        "email": "Asa_Harber22@hotmail.com",
+        "firstName": "Willard",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1214.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cbb031d0-0774-46a9-a016-e61966e84ebf",
+        "email": "Percy_Botsford85@hotmail.com",
+        "firstName": "Aiden",
+        "lastName": "Runolfsson-Steuber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54567270",
+        "tenantId": null
+      },
+      {
+        "reference": "adc8fcc9-3382-4e93-8f95-2c48e8f77f5c",
+        "email": "Cleora.Kovacek68@hotmail.com",
+        "firstName": "Allen",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1093.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "8655c09f-8223-4731-8c43-d9d9839bcde6",
+        "figure_name": "Superhero",
+        "created_at": "2023-09-01T06:50:35.849Z",
+        "updated_at": "2023-09-01T08:27:07.368Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "057138eb-559f-49e3-b06d-489d36638eaa",
+        "figure_name": "Action Figure",
+        "created_at": "2023-08-31T22:43:56.503Z",
+        "updated_at": "2023-09-01T02:30:20.479Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "59df8a16-3ad5-4fe2-b0a8-ae999aef1a12",
+        "figure_name": "Collectible",
+        "created_at": "2023-08-31T18:40:06.176Z",
+        "updated_at": "2023-08-31T15:47:02.493Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "ed35038b-9680-4ab1-8662-e515fe67bfd1",
+        "figure_name": "Character Model",
+        "created_at": "2023-08-31T19:03:17.281Z",
+        "updated_at": "2023-08-31T18:46:32.769Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "912607e4-ff39-478b-a4fc-a0b53e21e7f7",
+        "figure_name": "Toy Figurine",
+        "created_at": "2023-09-01T07:29:34.421Z",
+        "updated_at": "2023-09-01T01:00:09.837Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "571d35af-77b2-4ba6-815c-96a8f9f8d915",
+        "sales_count": 57665,
+        "created_at": "2023-08-31T09:34:49.157Z",
+        "updated_at": "2023-08-31T19:58:12.172Z",
+        "figure_id": "912607e4-ff39-478b-a4fc-a0b53e21e7f7",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "ee7515ce-7738-4b54-a439-9552703b6c68",
+        "sales_count": 42794,
+        "created_at": "2023-09-01T04:55:38.022Z",
+        "updated_at": "2023-09-01T05:33:55.937Z",
+        "figure_id": "ed35038b-9680-4ab1-8662-e515fe67bfd1",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "f16c6a4a-900b-45b9-8fdf-cb1b7bc57e54",
+        "sales_count": 5266,
+        "created_at": "2023-08-31T16:59:26.067Z",
+        "updated_at": "2023-09-01T04:45:58.676Z",
+        "figure_id": "59df8a16-3ad5-4fe2-b0a8-ae999aef1a12",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "a5f72f82-5e77-4571-b577-bc9ce5e79ffb",
+        "sales_count": 42908,
+        "created_at": "2023-09-01T04:37:15.024Z",
+        "updated_at": "2023-08-31T17:23:49.687Z",
+        "figure_id": "59df8a16-3ad5-4fe2-b0a8-ae999aef1a12",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "43d8972e-79df-4298-b2eb-9dd2a7637286",
+        "sales_count": 4814,
+        "created_at": "2023-09-01T04:43:33.043Z",
+        "updated_at": "2023-08-31T19:19:25.459Z",
+        "figure_id": "ed35038b-9680-4ab1-8662-e515fe67bfd1",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "ef662406-35c3-496d-b7d3-6decb139c9ea",
+        "purchase_date": "2023-09-01T03:30:53.952Z",
+        "created_at": "2023-08-31T21:33:57.212Z",
+        "updated_at": "2023-08-31T23:57:34.591Z",
+        "figure_id": "912607e4-ff39-478b-a4fc-a0b53e21e7f7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e67099fe-0088-4803-9d6d-2d140b85ef56",
+        "purchase_date": "2023-09-01T00:32:24.715Z",
+        "created_at": "2023-09-01T03:42:06.136Z",
+        "updated_at": "2023-08-31T23:23:08.364Z",
+        "figure_id": "057138eb-559f-49e3-b06d-489d36638eaa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f27ec09-4977-432a-807b-22d01765a2f4",
+        "purchase_date": "2023-09-01T03:21:55.907Z",
+        "created_at": "2023-08-31T18:31:04.900Z",
+        "updated_at": "2023-08-31T09:44:00.746Z",
+        "figure_id": "8655c09f-8223-4731-8c43-d9d9839bcde6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d587dd82-b0c2-4a3d-9602-49475079eb25",
+        "purchase_date": "2023-08-31T15:51:50.659Z",
+        "created_at": "2023-08-31T20:49:23.527Z",
+        "updated_at": "2023-08-31T21:30:13.503Z",
+        "figure_id": "8655c09f-8223-4731-8c43-d9d9839bcde6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ce926b6-bea1-4722-998d-d141bc15295e",
+        "purchase_date": "2023-08-31T16:05:58.618Z",
+        "created_at": "2023-09-01T00:09:30.344Z",
+        "updated_at": "2023-08-31T13:55:31.207Z",
+        "figure_id": "057138eb-559f-49e3-b06d-489d36638eaa",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "07b037d1-4573-4488-af74-7476d0738d64",
+        "topic": "Favorite Movies",
+        "created_at": "2023-08-31T18:38:29.237Z",
+        "updated_at": "2023-08-31T14:35:05.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa2f2639-0c25-4af2-b050-b63ed998a72c",
+        "topic": "Book Recommendations",
+        "created_at": "2023-08-31T19:12:05.538Z",
+        "updated_at": "2023-08-31T18:29:12.371Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "04d4173b-6951-4d0c-a163-0cbaf77022f1",
+        "topic": "Travel Experiences",
+        "created_at": "2023-08-31T14:21:21.061Z",
+        "updated_at": "2023-09-01T08:53:27.234Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7820d24c-d32f-4170-89eb-e8fca82ae4b6",
+        "topic": "Cooking Tips",
+        "created_at": "2023-08-31T11:35:53.734Z",
+        "updated_at": "2023-09-01T02:54:34.015Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4caf4c5b-e726-47d3-a318-fbe4f4298a94",
+        "topic": "Fitness Motivation",
+        "created_at": "2023-08-31T15:12:29.281Z",
+        "updated_at": "2023-08-31T15:07:33.428Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "1aa7e871-67f9-43c1-af68-5135a3b15716",
+        "collection_list": "Comic Books",
+        "wish_list": "Limited Edition Figures",
+        "created_at": "2023-09-01T05:25:00.765Z",
+        "updated_at": "2023-09-01T05:45:16.835Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5066029-bafe-4ee7-a339-f1e41d8337e7",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Autographed Memorabilia",
+        "created_at": "2023-08-31T22:15:04.923Z",
+        "updated_at": "2023-08-31T18:41:17.798Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7842105-6506-4016-a38b-5dee616a4455",
+        "collection_list": "Antique Coins",
+        "wish_list": "Rare Collectibles",
+        "created_at": "2023-09-01T00:36:14.483Z",
+        "updated_at": "2023-09-01T06:08:32.557Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "802c6e0b-f847-4780-9159-18380afc6429",
+        "collection_list": "Vintage Stamps",
+        "wish_list": "Vintage Toys",
+        "created_at": "2023-08-31T11:22:32.176Z",
+        "updated_at": "2023-09-01T00:38:36.730Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "338f555a-2e2e-4a99-94b9-35a683fac4b5",
+        "collection_list": "Rare Artwork",
+        "wish_list": "Exclusive Merchandise",
+        "created_at": "2023-09-01T03:20:55.459Z",
+        "updated_at": "2023-08-31T16:07:54.142Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6ba9067d-eed7-4551-9a37-e161bf61058c",
+        "email": "Ora.Gorczany@gmail.com",
+        "firstName": "Xavier",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/264.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4dd90393-c41c-4d17-98be-0d060fd84f8c",
+        "email": "Vena54@hotmail.com",
+        "firstName": "Mustafa",
+        "lastName": "Gulgowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/230.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "934fb221-7aad-4f41-968d-7a92fe519645",
+        "email": "Rowland_Robel96@hotmail.com",
+        "firstName": "Deon",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8070150",
+        "tenantId": null
+      },
+      {
+        "reference": "db8d9ff5-a8c3-4fff-b83d-33ee1321f73e",
+        "email": "Victor_Kub70@yahoo.com",
+        "firstName": "Unique",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/61.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3aa587ad-9a47-4ab6-bcd6-8e2c06cc4b94",
+        "email": "Dexter.Ebert@yahoo.com",
+        "firstName": "Alia",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27599919",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "3ae67954-399e-4818-abc4-b26ae31e82b2",
+        "figure_name": "Superhero",
+        "created_at": "2023-08-31T23:27:38.213Z",
+        "updated_at": "2023-09-01T08:05:07.354Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "3fa62959-6b77-453d-807c-950eeefeda85",
+        "figure_name": "Sci-Fi",
+        "created_at": "2023-08-31T12:50:30.021Z",
+        "updated_at": "2023-08-31T22:41:42.282Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "5e507432-8a20-423f-8530-7d7ae83d1478",
+        "figure_name": "Anime",
+        "created_at": "2023-09-01T02:14:03.481Z",
+        "updated_at": "2023-09-01T00:25:52.548Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "7250e9a7-e858-4a54-8cb2-d83da51766e5",
+        "figure_name": "Cartoon",
+        "created_at": "2023-08-31T20:55:27.316Z",
+        "updated_at": "2023-09-01T08:54:28.969Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "eedf42f5-c674-4536-97ee-9adf45e3cbb8",
+        "figure_name": "Movie",
+        "created_at": "2023-09-01T01:21:17.412Z",
+        "updated_at": "2023-09-01T00:42:04.404Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "8ec79201-1a8a-4713-b291-cc8028532e76",
+        "sales_count": 87246,
+        "created_at": "2023-08-31T09:29:23.569Z",
+        "updated_at": "2023-09-01T05:44:45.237Z",
+        "figure_id": "3ae67954-399e-4818-abc4-b26ae31e82b2",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "bafc2157-2f82-40fd-b5c3-4f51211bb399",
+        "sales_count": 31369,
+        "created_at": "2023-08-31T20:23:49.491Z",
+        "updated_at": "2023-08-31T09:52:33.891Z",
+        "figure_id": "7250e9a7-e858-4a54-8cb2-d83da51766e5",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "fb50e383-56d8-4e46-86a2-2e867b38600f",
+        "sales_count": 80045,
+        "created_at": "2023-09-01T02:02:39.176Z",
+        "updated_at": "2023-08-31T16:23:38.773Z",
+        "figure_id": "3fa62959-6b77-453d-807c-950eeefeda85",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "7018ae80-d136-4b2c-83eb-1a0b860eab44",
+        "sales_count": 57478,
+        "created_at": "2023-08-31T09:41:57.112Z",
+        "updated_at": "2023-08-31T14:37:22.709Z",
+        "figure_id": "7250e9a7-e858-4a54-8cb2-d83da51766e5",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "c5c273d7-cdc9-4403-a6d6-c744e02cdc51",
+        "sales_count": 94882,
+        "created_at": "2023-08-31T15:54:39.453Z",
+        "updated_at": "2023-09-01T05:26:39.900Z",
+        "figure_id": "7250e9a7-e858-4a54-8cb2-d83da51766e5",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "803fb3f6-f377-4e61-9335-e6dea9ec67c0",
+        "purchase_date": "2023-08-31T11:24:56.210Z",
+        "created_at": "2023-09-01T08:41:32.060Z",
+        "updated_at": "2023-08-31T11:04:45.539Z",
+        "figure_id": "7250e9a7-e858-4a54-8cb2-d83da51766e5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dab7682-2d76-4b1e-aff2-51fe1f3d9705",
+        "purchase_date": "2023-08-31T21:36:03.180Z",
+        "created_at": "2023-09-01T04:42:59.371Z",
+        "updated_at": "2023-08-31T22:20:27.946Z",
+        "figure_id": "5e507432-8a20-423f-8530-7d7ae83d1478",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbbe5345-c4b4-481d-9b2f-8bd6c7b19b61",
+        "purchase_date": "2023-08-31T16:48:33.866Z",
+        "created_at": "2023-08-31T15:12:22.662Z",
+        "updated_at": "2023-08-31T21:11:46.235Z",
+        "figure_id": "eedf42f5-c674-4536-97ee-9adf45e3cbb8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c658385b-2032-4bfc-ba5a-5667ec6cd14b",
+        "purchase_date": "2023-08-31T10:51:10.342Z",
+        "created_at": "2023-08-31T17:46:01.910Z",
+        "updated_at": "2023-09-01T04:17:37.924Z",
+        "figure_id": "eedf42f5-c674-4536-97ee-9adf45e3cbb8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c310d04-bebb-4edd-a388-c723ca945e96",
+        "purchase_date": "2023-08-31T14:42:23.571Z",
+        "created_at": "2023-09-01T04:58:49.703Z",
+        "updated_at": "2023-08-31T12:32:18.002Z",
+        "figure_id": "3ae67954-399e-4818-abc4-b26ae31e82b2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "65331399-2bd3-48ac-9ddf-6fa227f74a83",
+        "topic": "Favorite TV Shows",
+        "created_at": "2023-09-01T02:06:34.137Z",
+        "updated_at": "2023-08-31T16:14:53.983Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3129f50-58c9-4ae1-971d-92a2b6d1634d",
+        "topic": "Book Recommendations",
+        "created_at": "2023-09-01T09:01:44.267Z",
+        "updated_at": "2023-09-01T04:19:50.189Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a5d3395-e5d9-44ce-b052-948f57177546",
+        "topic": "Travel Experiences",
+        "created_at": "2023-09-01T04:39:26.276Z",
+        "updated_at": "2023-08-31T19:46:54.138Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df7cc6ab-7120-47d9-9a88-678ba399c089",
+        "topic": "Fitness Tips",
+        "created_at": "2023-09-01T00:08:01.393Z",
+        "updated_at": "2023-08-31T14:55:03.821Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6dcdf1ef-97b9-4e47-a545-3e20a94081d9",
+        "topic": "Gaming Strategies",
+        "created_at": "2023-09-01T06:10:18.345Z",
+        "updated_at": "2023-09-01T03:51:17.429Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "0b2b085d-305d-475f-8cc0-74d683697d27",
+        "collection_list": "Action Figures",
+        "wish_list": "Rare Books",
+        "created_at": "2023-09-01T05:28:11.443Z",
+        "updated_at": "2023-09-01T03:46:15.712Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "759c7b28-3d1d-434e-a282-656afe542133",
+        "collection_list": "Stamps",
+        "wish_list": "Vintage Vinyl Records",
+        "created_at": "2023-09-01T04:57:04.339Z",
+        "updated_at": "2023-08-31T12:48:10.235Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b56d7d55-8ff6-4ebb-b205-9b234325c1da",
+        "collection_list": "Coins",
+        "wish_list": "Limited Edition Sneakers",
+        "created_at": "2023-09-01T00:13:14.016Z",
+        "updated_at": "2023-08-31T20:08:04.014Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e59dacb0-42a8-4360-b3af-9e56f88581be",
+        "collection_list": "Artwork",
+        "wish_list": "Classic Movie Posters",
+        "created_at": "2023-09-01T01:01:39.917Z",
+        "updated_at": "2023-09-01T08:29:13.748Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea842b53-c420-4990-8db4-5ac7777ed62a",
+        "collection_list": "Antiques",
+        "wish_list": "Collectible Trading Cards",
+        "created_at": "2023-08-31T10:55:02.254Z",
+        "updated_at": "2023-09-01T00:06:17.207Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "94172d58-2706-4930-bee0-104bc89cda26",
+        "email": "Hiram_Baumbach78@yahoo.com",
+        "firstName": "Kale",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36566894",
+        "tenantId": null
+      },
+      {
+        "reference": "97d581a0-38d0-435c-8f73-07a146696eae",
+        "email": "Katelyn92@yahoo.com",
+        "firstName": "Sierra",
+        "lastName": "Fay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1213.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c770ca95-a62c-4de1-a399-28ed5ab6646d",
+        "email": "Derrick4@hotmail.com",
+        "firstName": "Hertha",
+        "lastName": "Sauer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80166974",
+        "tenantId": null
+      },
+      {
+        "reference": "adf7556f-4aff-4914-a1e7-8f05483ff94d",
+        "email": "Mariane8@yahoo.com",
+        "firstName": "Bernardo",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/305.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "90a9f284-552b-4e60-a5d9-354fc8f97d23",
+        "email": "Sylvester_Hilpert@yahoo.com",
+        "firstName": "Annamarie",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/884.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "f155fdbf-1f9a-443c-9ff6-ce05f86f7cef",
+        "figure_name": "Superhero",
+        "created_at": "2023-08-31T21:23:55.736Z",
+        "updated_at": "2023-08-31T15:14:26.512Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "43457bc2-2995-47a3-bc6f-5dfab394b9d9",
+        "figure_name": "Anime Character",
+        "created_at": "2023-08-31T13:52:45.407Z",
+        "updated_at": "2023-08-31T14:21:05.641Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "ef0bd1a9-2d0d-4e6f-82e5-e96c31630904",
+        "figure_name": "Movie Villain",
+        "created_at": "2023-09-01T08:27:00.677Z",
+        "updated_at": "2023-08-31T13:59:07.766Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "ec22fe1a-e3e4-4376-aaf7-56d393632d41",
+        "figure_name": "Cartoon Character",
+        "created_at": "2023-09-01T07:37:13.355Z",
+        "updated_at": "2023-09-01T04:31:27.319Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "3b6ad4af-bdac-4719-88ca-80da14687371",
+        "figure_name": "Historical Figure",
+        "created_at": "2023-08-31T16:17:39.336Z",
+        "updated_at": "2023-08-31T20:23:01.654Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "bfa7eba6-95c1-42ac-b29a-ec96f8c5b371",
+        "sales_count": 92774,
+        "created_at": "2023-08-31T19:35:25.036Z",
+        "updated_at": "2023-09-01T02:33:24.132Z",
+        "figure_id": "ef0bd1a9-2d0d-4e6f-82e5-e96c31630904",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "4425f2c5-91dd-4afe-ad17-446e58b1b209",
+        "sales_count": 26635,
+        "created_at": "2023-09-01T00:10:13.018Z",
+        "updated_at": "2023-08-31T22:24:52.620Z",
+        "figure_id": "ec22fe1a-e3e4-4376-aaf7-56d393632d41",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "a78c391c-ff78-446f-a591-10a59b9f09e5",
+        "sales_count": 65070,
+        "created_at": "2023-08-31T13:39:08.145Z",
+        "updated_at": "2023-08-31T22:21:34.244Z",
+        "figure_id": "ef0bd1a9-2d0d-4e6f-82e5-e96c31630904",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "fab95809-5b45-4fc8-804d-d4c1d1617d0c",
+        "sales_count": 25589,
+        "created_at": "2023-08-31T17:20:07.798Z",
+        "updated_at": "2023-09-01T00:34:03.614Z",
+        "figure_id": "ec22fe1a-e3e4-4376-aaf7-56d393632d41",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "77190b20-67d7-4562-b57e-e7fa35667aa0",
+        "sales_count": 13088,
+        "created_at": "2023-08-31T19:58:59.879Z",
+        "updated_at": "2023-08-31T10:50:18.585Z",
+        "figure_id": "3b6ad4af-bdac-4719-88ca-80da14687371",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "781e358a-ddb8-45b9-97e2-5a8128642d27",
+        "purchase_date": "2023-08-31T17:49:28.309Z",
+        "created_at": "2023-08-31T18:16:36.586Z",
+        "updated_at": "2023-08-31T11:05:21.945Z",
+        "figure_id": "3b6ad4af-bdac-4719-88ca-80da14687371",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3781132-8b21-4f6a-b470-6b53f616f1ac",
+        "purchase_date": "2023-09-01T06:30:12.157Z",
+        "created_at": "2023-08-31T21:14:40.082Z",
+        "updated_at": "2023-09-01T02:25:38.446Z",
+        "figure_id": "ef0bd1a9-2d0d-4e6f-82e5-e96c31630904",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75804eaf-612f-4da9-b672-3eb297d8613b",
+        "purchase_date": "2023-08-31T21:51:02.116Z",
+        "created_at": "2023-08-31T17:28:34.377Z",
+        "updated_at": "2023-08-31T19:47:04.706Z",
+        "figure_id": "ef0bd1a9-2d0d-4e6f-82e5-e96c31630904",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b99cbc8-41ec-4409-89ec-61db2f7aee4a",
+        "purchase_date": "2023-09-01T06:36:02.668Z",
+        "created_at": "2023-08-31T16:33:06.365Z",
+        "updated_at": "2023-08-31T16:12:33.019Z",
+        "figure_id": "f155fdbf-1f9a-443c-9ff6-ce05f86f7cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b047d303-49cf-46b6-bb8e-848603f508e0",
+        "purchase_date": "2023-08-31T20:19:43.140Z",
+        "created_at": "2023-09-01T02:18:26.679Z",
+        "updated_at": "2023-09-01T06:30:14.837Z",
+        "figure_id": "ef0bd1a9-2d0d-4e6f-82e5-e96c31630904",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "2f4442df-effd-4b35-ac0a-a94f05e1879e",
+        "topic": "Favorite TV Shows",
+        "created_at": "2023-09-01T08:42:29.124Z",
+        "updated_at": "2023-08-31T21:38:27.235Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c77e79c-af63-40d9-89e1-775b595eb6c1",
+        "topic": "Best Travel Destinations",
+        "created_at": "2023-08-31T11:59:29.757Z",
+        "updated_at": "2023-09-01T02:42:41.958Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85d374a6-37fb-4394-ba0e-356405f29b5c",
+        "topic": "Book Recommendations",
+        "created_at": "2023-08-31T18:31:12.081Z",
+        "updated_at": "2023-08-31T13:07:27.407Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8aba1349-fd6c-40e4-9b84-282d8adf9d1e",
+        "topic": "Sports News",
+        "created_at": "2023-08-31T09:58:21.006Z",
+        "updated_at": "2023-09-01T07:49:43.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f2c02a7-0d59-4cba-8df1-d8077e2f3e80",
+        "topic": "Latest Fashion Trends",
+        "created_at": "2023-09-01T05:58:19.948Z",
+        "updated_at": "2023-08-31T12:40:30.986Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "ce873633-9d75-418b-92db-d256bec19714",
+        "collection_list": "Rare Coins",
+        "wish_list": "Limited Edition Action Figures",
+        "created_at": "2023-08-31T17:42:41.216Z",
+        "updated_at": "2023-09-01T00:40:10.616Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8b2659b-0687-48f9-a9ab-11a216d1e217",
+        "collection_list": "Vintage Stamps",
+        "wish_list": "Signed Sports Memorabilia",
+        "created_at": "2023-08-31T21:38:19.394Z",
+        "updated_at": "2023-08-31T10:28:45.576Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14b6ba19-c07a-4b5a-af4b-d5e6bc9ed263",
+        "collection_list": "Antique Furniture",
+        "wish_list": "Rare Books",
+        "created_at": "2023-09-01T02:27:59.181Z",
+        "updated_at": "2023-08-31T13:14:01.170Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f53ea13-f217-4505-a6ae-88bddd5d3f33",
+        "collection_list": "Classic Vinyl Records",
+        "wish_list": "Vintage Jewelry",
+        "created_at": "2023-08-31T13:50:27.042Z",
+        "updated_at": "2023-08-31T13:20:29.216Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7caf412-4755-4b7e-85d1-f3091ecb30bf",
+        "collection_list": "Artwork",
+        "wish_list": "Collectible Trading Cards",
+        "created_at": "2023-08-31T18:04:25.814Z",
+        "updated_at": "2023-09-01T06:13:24.729Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c11d712c-0d19-4dbd-9049-76494dcd3c24",
+        "email": "Ward36@gmail.com",
+        "firstName": "Martine",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88389863",
+        "tenantId": null
+      },
+      {
+        "reference": "300107b9-9b74-4870-b796-b5bc14582ecc",
+        "email": "Luz.Mitchell@yahoo.com",
+        "firstName": "Leif",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10754558",
+        "tenantId": null
+      },
+      {
+        "reference": "24c96a22-643e-4ae8-bf56-23b89f6d3cc5",
+        "email": "Clovis15@gmail.com",
+        "firstName": "Harmony",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11490797",
+        "tenantId": null
+      },
+      {
+        "reference": "f65fd842-8c4c-4051-b307-eef8c01f379a",
+        "email": "Russell58@hotmail.com",
+        "firstName": "Tabitha",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70980131",
+        "tenantId": null
+      },
+      {
+        "reference": "08f72e02-b066-44a2-91d7-3415b23f9605",
+        "email": "Clara70@yahoo.com",
+        "firstName": "Shanie",
+        "lastName": "Spencer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47537773",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "fd9cb401-d918-4243-9346-b296e99709a5",
+        "figure_name": "Superhero Action Figure",
+        "created_at": "2023-09-01T08:45:26.920Z",
+        "updated_at": "2023-09-01T04:38:39.647Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "fe2aa78e-394b-4115-b3c6-7fa3b0b9c133",
+        "figure_name": "Anime Character Figure",
+        "created_at": "2023-09-01T07:35:37.182Z",
+        "updated_at": "2023-08-31T19:38:45.706Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "3c2401d0-9789-4b28-9940-adf0408b641a",
+        "figure_name": "Movie Collectible Figure",
+        "created_at": "2023-09-01T08:11:41.047Z",
+        "updated_at": "2023-09-01T03:03:04.076Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "9fff9c80-2400-41a9-8e7a-38b7e8fe3e36",
+        "figure_name": "Historical Figure Replica",
+        "created_at": "2023-09-01T04:33:14.827Z",
+        "updated_at": "2023-08-31T20:38:32.049Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "8a74f847-5c00-4cda-b754-9f89b87519d7",
+        "figure_name": "Cartoon Character Figure",
+        "created_at": "2023-09-01T05:23:09.785Z",
+        "updated_at": "2023-09-01T07:30:38.810Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "852be079-ea86-42fe-b626-d7d8b3192aa1",
+        "sales_count": 76800,
+        "created_at": "2023-09-01T00:25:07.176Z",
+        "updated_at": "2023-08-31T17:10:29.931Z",
+        "figure_id": "fe2aa78e-394b-4115-b3c6-7fa3b0b9c133",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "eb43b30d-e210-452f-8927-7e72076c38c3",
+        "sales_count": 59623,
+        "created_at": "2023-08-31T23:14:26.904Z",
+        "updated_at": "2023-08-31T22:19:54.743Z",
+        "figure_id": "fe2aa78e-394b-4115-b3c6-7fa3b0b9c133",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "6441ce38-5f48-4346-8867-1c5c3ca185e6",
+        "sales_count": 33425,
+        "created_at": "2023-08-31T19:27:00.280Z",
+        "updated_at": "2023-09-01T02:35:13.790Z",
+        "figure_id": "9fff9c80-2400-41a9-8e7a-38b7e8fe3e36",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "e2b3170e-0797-4fde-93bc-ff3792ceafa6",
+        "sales_count": 92457,
+        "created_at": "2023-08-31T23:41:38.294Z",
+        "updated_at": "2023-09-01T08:13:12.167Z",
+        "figure_id": "9fff9c80-2400-41a9-8e7a-38b7e8fe3e36",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "1d12da68-16b7-44a9-a31f-e43a979393a4",
+        "sales_count": 98665,
+        "created_at": "2023-08-31T12:42:57.791Z",
+        "updated_at": "2023-08-31T09:35:22.447Z",
+        "figure_id": "fe2aa78e-394b-4115-b3c6-7fa3b0b9c133",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "47652f9a-65f2-4ab1-bc63-5703896eef15",
+        "purchase_date": "2023-08-31T22:56:53.716Z",
+        "created_at": "2023-08-31T10:07:55.375Z",
+        "updated_at": "2023-08-31T11:13:12.793Z",
+        "figure_id": "3c2401d0-9789-4b28-9940-adf0408b641a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98bc5484-7c97-4df2-b2f2-ef029d3323a6",
+        "purchase_date": "2023-09-01T06:30:18.536Z",
+        "created_at": "2023-08-31T09:42:52.198Z",
+        "updated_at": "2023-09-01T03:08:37.511Z",
+        "figure_id": "8a74f847-5c00-4cda-b754-9f89b87519d7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f894ce8-1143-478b-93c5-55387fdac4e9",
+        "purchase_date": "2023-09-01T02:21:20.416Z",
+        "created_at": "2023-08-31T13:35:09.124Z",
+        "updated_at": "2023-09-01T01:29:07.189Z",
+        "figure_id": "fd9cb401-d918-4243-9346-b296e99709a5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c791311-a0ff-4437-a3c7-ef2f34f54005",
+        "purchase_date": "2023-08-31T13:21:05.565Z",
+        "created_at": "2023-08-31T16:50:51.163Z",
+        "updated_at": "2023-08-31T18:48:30.625Z",
+        "figure_id": "8a74f847-5c00-4cda-b754-9f89b87519d7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0623a2f0-d4da-4542-b572-7e9eeeae924e",
+        "purchase_date": "2023-09-01T06:20:22.336Z",
+        "created_at": "2023-09-01T04:00:57.340Z",
+        "updated_at": "2023-08-31T13:09:02.428Z",
+        "figure_id": "9fff9c80-2400-41a9-8e7a-38b7e8fe3e36",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "e4365699-7962-43f3-88e6-e351158882e3",
+        "topic": "Favorite Books of All Time",
+        "created_at": "2023-08-31T13:42:55.794Z",
+        "updated_at": "2023-08-31T15:03:05.762Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1df83a0-8075-466a-847a-3830069b995f",
+        "topic": "Latest Fashion Trends",
+        "created_at": "2023-09-01T04:12:35.688Z",
+        "updated_at": "2023-09-01T03:01:22.795Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac535784-fd6e-45c1-8c68-9dd066d2e041",
+        "topic": "Best Movies of the Year",
+        "created_at": "2023-08-31T12:35:23.303Z",
+        "updated_at": "2023-09-01T06:29:54.351Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f44bf20-837f-44aa-bf78-96d55e05baa4",
+        "topic": "Collectible Figures Showcase",
+        "created_at": "2023-08-31T23:21:15.748Z",
+        "updated_at": "2023-09-01T08:11:48.048Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e649ef5-fa11-450c-af2f-a58185b80f36",
+        "topic": "Pet Care Tips",
+        "created_at": "2023-08-31T10:44:06.958Z",
+        "updated_at": "2023-08-31T20:37:33.227Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "1d6d108f-1707-4d9d-a805-68c3c7399d34",
+        "collection_list": "Vintage Vinyl Records",
+        "wish_list": "Limited Edition Sneakers",
+        "created_at": "2023-08-31T17:16:52.209Z",
+        "updated_at": "2023-08-31T22:45:09.508Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3a14e57-b202-4e71-964c-597e45233a78",
+        "collection_list": "Rare Stamps",
+        "wish_list": "Classic Movie Posters",
+        "created_at": "2023-09-01T06:45:41.079Z",
+        "updated_at": "2023-09-01T00:07:43.317Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67314261-dfdb-4a47-949b-0870944b1bfb",
+        "collection_list": "Antique Coins",
+        "wish_list": "Rare Comic Books",
+        "created_at": "2023-09-01T08:11:36.621Z",
+        "updated_at": "2023-08-31T16:33:15.024Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d938988-ab90-4739-9c20-13df643d0f44",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Signed Music Albums",
+        "created_at": "2023-09-01T02:47:48.877Z",
+        "updated_at": "2023-09-01T05:07:16.109Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3b5e136-dd71-44d5-8312-fe5445fb2237",
+        "collection_list": "Art Prints",
+        "wish_list": "Vintage Video Games",
+        "created_at": "2023-09-01T01:08:35.333Z",
+        "updated_at": "2023-09-01T05:28:46.410Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "38c781fa-fcac-4b2c-8e0d-a1b275c2e728",
+        "email": "Durward_Harris54@hotmail.com",
+        "firstName": "Heather",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/599.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b07414bf-0098-459a-b9e8-36d12668e4a0",
+        "email": "Mohammad45@gmail.com",
+        "firstName": "Blanche",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91471406",
+        "tenantId": null
+      },
+      {
+        "reference": "2df95eda-9382-4dae-91e8-8bf66c851f99",
+        "email": "Tony_Tillman33@yahoo.com",
+        "firstName": "Fleta",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/606.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6b570897-530c-49f6-9b94-b9740012fd1c",
+        "email": "Dianna.Bahringer22@yahoo.com",
+        "firstName": "Lilla",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82356255",
+        "tenantId": null
+      },
+      {
+        "reference": "145690c3-1368-4e57-b9d8-719756c07d99",
+        "email": "Jewell_Bogan79@yahoo.com",
+        "firstName": "Duncan",
+        "lastName": "Boyle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/77.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "ff683000-8a6f-48d5-a6ad-cea37eb58a39",
+        "figure_name": "Superhero",
+        "created_at": "2023-08-31T12:46:12.718Z",
+        "updated_at": "2023-09-01T02:56:05.406Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "1d0282ca-6a88-40e7-a913-f90f1bd90a3f",
+        "figure_name": "Anime Character",
+        "created_at": "2023-08-31T18:14:33.309Z",
+        "updated_at": "2023-09-01T06:31:00.506Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "6dd1c15b-46a6-4072-a097-47766585b014",
+        "figure_name": "Movie Icon",
+        "created_at": "2023-08-31T10:17:58.838Z",
+        "updated_at": "2023-08-31T12:39:25.361Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "0eb307a9-4992-4d58-bfb4-28dbc268b848",
+        "figure_name": "Cartoon Character",
+        "created_at": "2023-09-01T06:45:35.807Z",
+        "updated_at": "2023-08-31T18:54:40.651Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "1a7fb13f-1a46-4c52-8677-0b3ff27149e8",
+        "figure_name": "Historical Figure",
+        "created_at": "2023-08-31T18:08:44.168Z",
+        "updated_at": "2023-09-01T04:31:05.887Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "d92acd97-d613-42c9-a1e6-00a56bdc2f48",
+        "sales_count": 27825,
+        "created_at": "2023-08-31T12:45:26.615Z",
+        "updated_at": "2023-08-31T12:46:13.977Z",
+        "figure_id": "1d0282ca-6a88-40e7-a913-f90f1bd90a3f",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "0cfdbcc7-036f-4d0a-921f-f126bb95f5e5",
+        "sales_count": 72137,
+        "created_at": "2023-08-31T21:11:38.331Z",
+        "updated_at": "2023-08-31T10:13:36.456Z",
+        "figure_id": "ff683000-8a6f-48d5-a6ad-cea37eb58a39",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "00723a12-0c49-4031-87c3-69eda44bc35f",
+        "sales_count": 39916,
+        "created_at": "2023-08-31T19:21:13.693Z",
+        "updated_at": "2023-09-01T02:33:46.836Z",
+        "figure_id": "0eb307a9-4992-4d58-bfb4-28dbc268b848",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "0c0bf805-41dd-4bce-aeba-787377544352",
+        "sales_count": 50981,
+        "created_at": "2023-08-31T09:44:51.929Z",
+        "updated_at": "2023-08-31T17:46:20.660Z",
+        "figure_id": "1a7fb13f-1a46-4c52-8677-0b3ff27149e8",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "d9a13c6e-c0b3-4db3-a855-3e97f75ac625",
+        "sales_count": 67886,
+        "created_at": "2023-08-31T18:18:46.818Z",
+        "updated_at": "2023-09-01T06:29:08.850Z",
+        "figure_id": "6dd1c15b-46a6-4072-a097-47766585b014",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "6db772aa-f223-4eb0-bf58-d4f955a8f723",
+        "purchase_date": "2023-08-31T09:55:40.402Z",
+        "created_at": "2023-08-31T11:04:04.161Z",
+        "updated_at": "2023-08-31T22:40:57.543Z",
+        "figure_id": "1a7fb13f-1a46-4c52-8677-0b3ff27149e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b44820d3-41bb-4c49-bccc-1c033cef6309",
+        "purchase_date": "2023-08-31T17:05:03.434Z",
+        "created_at": "2023-08-31T14:46:34.412Z",
+        "updated_at": "2023-08-31T19:49:13.322Z",
+        "figure_id": "1a7fb13f-1a46-4c52-8677-0b3ff27149e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f0494a6-e74b-4445-a597-4052fdb058fa",
+        "purchase_date": "2023-09-01T04:34:47.286Z",
+        "created_at": "2023-08-31T17:47:57.682Z",
+        "updated_at": "2023-09-01T07:15:03.948Z",
+        "figure_id": "1d0282ca-6a88-40e7-a913-f90f1bd90a3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a037c30-750b-4f8a-bd64-12dde180b4c8",
+        "purchase_date": "2023-08-31T22:30:16.748Z",
+        "created_at": "2023-08-31T19:08:50.928Z",
+        "updated_at": "2023-09-01T05:36:18.763Z",
+        "figure_id": "0eb307a9-4992-4d58-bfb4-28dbc268b848",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "358842ac-b265-455c-bb89-cc08d78720a3",
+        "purchase_date": "2023-08-31T19:08:33.040Z",
+        "created_at": "2023-09-01T00:48:22.678Z",
+        "updated_at": "2023-09-01T03:06:01.970Z",
+        "figure_id": "1d0282ca-6a88-40e7-a913-f90f1bd90a3f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "d80233db-4466-4950-a31b-07f157dfc66a",
+        "topic": "Favorite Movies",
+        "created_at": "2023-08-31T16:45:53.191Z",
+        "updated_at": "2023-08-31T17:25:53.514Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f678772-4319-420f-8e8c-5de1afd566e2",
+        "topic": "Latest Fashion Trends",
+        "created_at": "2023-09-01T02:23:32.107Z",
+        "updated_at": "2023-08-31T11:13:02.858Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce9c9d23-0a39-4ebb-83ad-0c485b067a57",
+        "topic": "Comic Book Recommendations",
+        "created_at": "2023-09-01T04:15:17.322Z",
+        "updated_at": "2023-09-01T03:54:33.139Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a2ae78b-6138-4591-8f70-576f0fec7d0d",
+        "topic": "Collectible Figurines",
+        "created_at": "2023-08-31T18:32:23.810Z",
+        "updated_at": "2023-09-01T03:57:33.601Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c638234-8773-4ab5-89fa-e3426bd65cc0",
+        "topic": "Artistic Masterpieces",
+        "created_at": "2023-08-31T16:34:46.500Z",
+        "updated_at": "2023-08-31T18:24:53.108Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "6973d732-fdee-4230-bf23-717b188ec5a1",
+        "collection_list": "Action Figures",
+        "wish_list": "Rare Vinyl Records",
+        "created_at": "2023-09-01T06:48:01.052Z",
+        "updated_at": "2023-09-01T04:54:20.252Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f0e5b12-e350-4868-b758-efee129f44ce",
+        "collection_list": "Stamps",
+        "wish_list": "Limited Edition Sneakers",
+        "created_at": "2023-08-31T09:33:17.277Z",
+        "updated_at": "2023-08-31T13:08:01.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6615634a-5b10-4a7c-a557-00ef53c9a0f3",
+        "collection_list": "Coins",
+        "wish_list": "Vintage Posters",
+        "created_at": "2023-08-31T18:55:14.641Z",
+        "updated_at": "2023-09-01T04:47:55.764Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3dbd39d-bdbb-4649-be5b-59b25bdd1114",
+        "collection_list": "Antiques",
+        "wish_list": "Autographed Memorabilia",
+        "created_at": "2023-08-31T15:43:16.332Z",
+        "updated_at": "2023-09-01T07:40:33.144Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1a051f6-b961-4094-81c8-5660d5b57d03",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Fine Art Paintings",
+        "created_at": "2023-08-31T22:27:50.316Z",
+        "updated_at": "2023-08-31T15:45:07.125Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "34b103fc-ae8e-47ff-b4a9-792965fc8e36",
+        "email": "Jonathan_Strosin59@hotmail.com",
+        "firstName": "Gabriella",
+        "lastName": "Nienow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/764.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d8bf05b2-8679-4cba-846a-779809352531",
+        "email": "Alfreda.Bradtke4@yahoo.com",
+        "firstName": "Madelyn",
+        "lastName": "Leuschke-Kassulke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/871.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9bc77af9-0e10-43e0-a7a6-9b964c678ed2",
+        "email": "Otha_Stokes34@gmail.com",
+        "firstName": "Thad",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/683750",
+        "tenantId": null
+      },
+      {
+        "reference": "dfdf0e93-c703-4168-b627-223f1a19130a",
+        "email": "Jimmie.OKon@yahoo.com",
+        "firstName": "Donnie",
+        "lastName": "Casper-Mitchell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/918.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "85cf5f91-d51e-49ca-898f-5cf7ce364cc2",
+        "email": "Karson_Keebler@gmail.com",
+        "firstName": "Jack",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/316.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "1581c682-0cd3-41fc-8691-2eb37cc7405e",
+        "figure_name": "Superhero Figure",
+        "created_at": "2023-08-31T17:27:14.833Z",
+        "updated_at": "2023-08-31T12:51:45.547Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "1e97822e-b743-4d89-92ed-58157c19650a",
+        "figure_name": "Anime Character Figure",
+        "created_at": "2023-09-01T01:11:23.965Z",
+        "updated_at": "2023-08-31T21:51:15.102Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "0cdbf3c2-a4d7-4aa9-a758-ef02a73dbeea",
+        "figure_name": "Movie Character Figure",
+        "created_at": "2023-08-31T17:32:41.594Z",
+        "updated_at": "2023-09-01T09:19:09.863Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "e2c76da6-224f-47e7-8429-9c53a84f7398",
+        "figure_name": "Cartoon Character Figure",
+        "created_at": "2023-08-31T12:38:20.092Z",
+        "updated_at": "2023-08-31T11:16:01.334Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "972c9da7-6d53-4fd9-b841-93b07aba914b",
+        "figure_name": "Gaming Character Figure",
+        "created_at": "2023-09-01T06:20:57.153Z",
+        "updated_at": "2023-08-31T23:16:43.688Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "78975080-98eb-4ad6-b54c-0224ff7255f8",
+        "sales_count": 10998,
+        "created_at": "2023-08-31T22:10:36.593Z",
+        "updated_at": "2023-08-31T12:53:58.697Z",
+        "figure_id": "0cdbf3c2-a4d7-4aa9-a758-ef02a73dbeea",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "5e0ff2f3-ec94-475d-9a7a-23e960e43a81",
+        "sales_count": 6242,
+        "created_at": "2023-09-01T01:44:48.801Z",
+        "updated_at": "2023-09-01T04:52:46.266Z",
+        "figure_id": "0cdbf3c2-a4d7-4aa9-a758-ef02a73dbeea",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "7dd6ef03-99a5-4e76-889d-77f5bcb55d8f",
+        "sales_count": 71131,
+        "created_at": "2023-08-31T09:45:59.770Z",
+        "updated_at": "2023-08-31T20:12:08.570Z",
+        "figure_id": "0cdbf3c2-a4d7-4aa9-a758-ef02a73dbeea",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "e37d6737-2a41-474a-bcf2-c62ae470c5ef",
+        "sales_count": 88588,
+        "created_at": "2023-08-31T15:37:58.938Z",
+        "updated_at": "2023-09-01T00:24:06.910Z",
+        "figure_id": "972c9da7-6d53-4fd9-b841-93b07aba914b",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "f14e589c-559a-42cf-994f-9055a82014bc",
+        "sales_count": 38935,
+        "created_at": "2023-09-01T01:00:44.535Z",
+        "updated_at": "2023-08-31T17:28:48.291Z",
+        "figure_id": "1581c682-0cd3-41fc-8691-2eb37cc7405e",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "065fd7fb-a130-4a99-aea2-c46e3ef4658b",
+        "purchase_date": "2023-09-01T01:08:06.392Z",
+        "created_at": "2023-08-31T22:36:58.684Z",
+        "updated_at": "2023-08-31T22:49:47.221Z",
+        "figure_id": "0cdbf3c2-a4d7-4aa9-a758-ef02a73dbeea",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba816373-d1e1-48cb-80aa-fb73991bd7c0",
+        "purchase_date": "2023-08-31T20:55:41.513Z",
+        "created_at": "2023-08-31T11:03:56.282Z",
+        "updated_at": "2023-08-31T12:08:15.395Z",
+        "figure_id": "1581c682-0cd3-41fc-8691-2eb37cc7405e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d97ddd7c-ee58-417f-b73f-8b569cbe1703",
+        "purchase_date": "2023-09-01T04:20:11.201Z",
+        "created_at": "2023-08-31T19:06:47.263Z",
+        "updated_at": "2023-08-31T16:31:26.668Z",
+        "figure_id": "0cdbf3c2-a4d7-4aa9-a758-ef02a73dbeea",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc42a1a6-1171-4c5a-ba89-1f01e58d87b8",
+        "purchase_date": "2023-08-31T23:06:38.563Z",
+        "created_at": "2023-08-31T11:21:11.322Z",
+        "updated_at": "2023-08-31T19:05:38.272Z",
+        "figure_id": "972c9da7-6d53-4fd9-b841-93b07aba914b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b07709c-59ea-4a9e-a28a-fdb096a3f94f",
+        "purchase_date": "2023-08-31T21:14:09.368Z",
+        "created_at": "2023-09-01T01:31:35.155Z",
+        "updated_at": "2023-08-31T09:32:33.259Z",
+        "figure_id": "1581c682-0cd3-41fc-8691-2eb37cc7405e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "cec93407-5c4d-4497-b613-79ffd3fe2632",
+        "topic": "Favorite Movies",
+        "created_at": "2023-09-01T03:37:25.953Z",
+        "updated_at": "2023-08-31T22:36:40.952Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7484362c-d07b-435c-8835-c1e6ab13e84e",
+        "topic": "Book Recommendations",
+        "created_at": "2023-08-31T11:39:14.604Z",
+        "updated_at": "2023-08-31T16:22:28.893Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fab2b82b-b954-4ea0-bf20-c16527a6cdbc",
+        "topic": "Travel Experiences",
+        "created_at": "2023-09-01T02:45:50.101Z",
+        "updated_at": "2023-09-01T04:45:29.836Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86e915ec-6fdc-4006-8070-bca6099ca690",
+        "topic": "Gaming Tips",
+        "created_at": "2023-09-01T06:56:16.580Z",
+        "updated_at": "2023-09-01T04:28:21.285Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa758f5c-8b8e-46b7-a4a1-b0804913a505",
+        "topic": "Cooking Recipes",
+        "created_at": "2023-09-01T08:44:42.652Z",
+        "updated_at": "2023-09-01T09:05:59.428Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "d5483d66-ec70-428e-a0b5-b46c18c535ed",
+        "collection_list": "Comic Books",
+        "wish_list": "Rare Vinyl Records",
+        "created_at": "2023-08-31T10:07:08.509Z",
+        "updated_at": "2023-09-01T08:31:13.267Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af42721a-8349-4456-b5e4-fd9b50877e04",
+        "collection_list": "Stamps",
+        "wish_list": "Limited Edition Art Prints",
+        "created_at": "2023-08-31T10:50:20.963Z",
+        "updated_at": "2023-09-01T07:25:40.022Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6cec9244-a0fd-489d-abb7-c106c9f998f2",
+        "collection_list": "Coins",
+        "wish_list": "Vintage Postcards",
+        "created_at": "2023-08-31T14:16:58.851Z",
+        "updated_at": "2023-08-31T21:49:48.028Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b410f56-d42b-443e-abbd-41b79c2eb6d7",
+        "collection_list": "Antiques",
+        "wish_list": "Signed Sports Jerseys",
+        "created_at": "2023-09-01T06:46:34.676Z",
+        "updated_at": "2023-08-31T14:41:19.857Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdb7b91c-57ba-4d7e-aa02-baf27e1da4de",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "First Edition Books",
+        "created_at": "2023-08-31T22:51:37.636Z",
+        "updated_at": "2023-09-01T03:08:32.821Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0efbb01d-89ba-4ac6-a2a3-d860fdd97195",
+        "email": "Patricia_Murazik@hotmail.com",
+        "firstName": "Javon",
+        "lastName": "Treutel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/687.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9dc2eeed-f8d0-48c7-9bca-0a6083e3e1da",
+        "email": "Doyle27@gmail.com",
+        "firstName": "Melody",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/966.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "644f352f-4e4a-406b-8646-fff91ecff18d",
+        "email": "Xavier_Hegmann@hotmail.com",
+        "firstName": "Bessie",
+        "lastName": "Hammes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1170.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3c4b623f-926f-48e7-a5a7-9d1453ec47d1",
+        "email": "Lurline.Mayert66@hotmail.com",
+        "firstName": "Amalia",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/677.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "75e15d34-645d-4c65-8b32-a712c7c5c02d",
+        "email": "Rosalee.Bailey-Corkery49@gmail.com",
+        "firstName": "Antonette",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/244.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "39ac1276-f261-403b-a985-41b7f432cd11",
+        "figure_name": "Superhero Collectible",
+        "created_at": "2023-08-31T09:45:30.608Z",
+        "updated_at": "2023-08-31T10:04:36.879Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "2a50aa1c-e08b-4a05-8d76-0855918fec4b",
+        "figure_name": "Anime Character Figurine",
+        "created_at": "2023-08-31T10:04:33.057Z",
+        "updated_at": "2023-08-31T23:29:45.754Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "33e93752-71ae-470c-be8e-ce9b5a1913c2",
+        "figure_name": "Historical Figure Replica",
+        "created_at": "2023-09-01T04:49:51.086Z",
+        "updated_at": "2023-08-31T23:31:33.388Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "bdaaf978-4744-441a-a33b-75c180266bde",
+        "figure_name": "Movie Memorabilia",
+        "created_at": "2023-08-31T20:36:06.648Z",
+        "updated_at": "2023-08-31T13:16:32.328Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "6f01b105-65ff-4cb2-bd11-41255f6526a3",
+        "figure_name": "Comic Book Hero Statue",
+        "created_at": "2023-08-31T09:30:51.110Z",
+        "updated_at": "2023-09-01T08:34:13.315Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "d80198d1-7958-4a39-a249-3235cb75eaac",
+        "sales_count": 79226,
+        "created_at": "2023-09-01T00:26:09.544Z",
+        "updated_at": "2023-08-31T23:40:24.696Z",
+        "figure_id": "bdaaf978-4744-441a-a33b-75c180266bde",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "384a187e-e785-4003-8f02-516f06127f32",
+        "sales_count": 25454,
+        "created_at": "2023-09-01T03:50:05.284Z",
+        "updated_at": "2023-08-31T12:48:24.314Z",
+        "figure_id": "39ac1276-f261-403b-a985-41b7f432cd11",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "22eae181-854b-4b27-b4ec-89bbcc0f6dd6",
+        "sales_count": 89066,
+        "created_at": "2023-08-31T14:05:56.755Z",
+        "updated_at": "2023-08-31T15:44:53.922Z",
+        "figure_id": "39ac1276-f261-403b-a985-41b7f432cd11",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "4ca15141-02ba-4707-be64-66d77f662de3",
+        "sales_count": 93136,
+        "created_at": "2023-08-31T13:45:51.540Z",
+        "updated_at": "2023-09-01T05:47:53.636Z",
+        "figure_id": "39ac1276-f261-403b-a985-41b7f432cd11",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "c51658c8-b015-4655-91f9-27fc58777c59",
+        "sales_count": 12993,
+        "created_at": "2023-08-31T20:59:58.689Z",
+        "updated_at": "2023-08-31T14:52:11.369Z",
+        "figure_id": "33e93752-71ae-470c-be8e-ce9b5a1913c2",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "b7c93af4-eeb5-47d8-b22f-aeada79f2f3e",
+        "purchase_date": "2023-08-31T11:47:14.164Z",
+        "created_at": "2023-09-01T00:09:10.036Z",
+        "updated_at": "2023-09-01T06:42:47.255Z",
+        "figure_id": "39ac1276-f261-403b-a985-41b7f432cd11",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a7fbb3c-030f-4b67-9c50-a3493312a447",
+        "purchase_date": "2023-09-01T01:20:40.328Z",
+        "created_at": "2023-09-01T08:48:06.816Z",
+        "updated_at": "2023-08-31T14:04:52.010Z",
+        "figure_id": "39ac1276-f261-403b-a985-41b7f432cd11",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f85ffbb-cff1-4529-aac0-47a222d60503",
+        "purchase_date": "2023-09-01T04:06:57.461Z",
+        "created_at": "2023-08-31T13:13:18.866Z",
+        "updated_at": "2023-08-31T22:44:58.013Z",
+        "figure_id": "bdaaf978-4744-441a-a33b-75c180266bde",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "08fb0dcf-2b6a-43be-b187-da15cf46617f",
+        "purchase_date": "2023-08-31T18:18:02.471Z",
+        "created_at": "2023-08-31T22:22:51.026Z",
+        "updated_at": "2023-08-31T18:11:10.714Z",
+        "figure_id": "6f01b105-65ff-4cb2-bd11-41255f6526a3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc80c098-3b3b-45ee-b855-384134f9ac92",
+        "purchase_date": "2023-08-31T15:27:32.748Z",
+        "created_at": "2023-09-01T04:04:51.194Z",
+        "updated_at": "2023-08-31T15:31:02.148Z",
+        "figure_id": "2a50aa1c-e08b-4a05-8d76-0855918fec4b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "18adb2c6-799f-4ce3-961d-82ed90fa4459",
+        "topic": "Favorite Movies of All Time",
+        "created_at": "2023-09-01T06:33:35.372Z",
+        "updated_at": "2023-08-31T12:52:15.729Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2c0360b-586c-48b4-b3e9-db04bf973f4d",
+        "topic": "Best Travel Destinations",
+        "created_at": "2023-08-31T19:23:52.364Z",
+        "updated_at": "2023-09-01T09:27:26.101Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15494208-abc0-48cf-8821-bae41eb82a04",
+        "topic": "Latest Fashion Trends",
+        "created_at": "2023-08-31T16:13:19.457Z",
+        "updated_at": "2023-09-01T05:40:00.747Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26b34c31-9579-48b0-871e-82b5d4632e92",
+        "topic": "Book Recommendations",
+        "created_at": "2023-08-31T16:23:17.222Z",
+        "updated_at": "2023-09-01T00:03:03.206Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7d9141c-2578-408c-8089-d7de0cdb6d6b",
+        "topic": "Artistic Inspirations",
+        "created_at": "2023-08-31T13:06:35.413Z",
+        "updated_at": "2023-08-31T12:26:54.752Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "a772a0ca-0261-4288-8b31-960d4dc2f923",
+        "collection_list": "Vintage Vinyl Records",
+        "wish_list": "Limited Edition Action Figures",
+        "created_at": "2023-08-31T14:25:09.864Z",
+        "updated_at": "2023-08-31T23:41:53.701Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "afb7b4e6-7e3b-4b1c-8d26-8f42cf909da1",
+        "collection_list": "Antique Coins",
+        "wish_list": "Signed Celebrity Autographs",
+        "created_at": "2023-08-31T21:37:38.096Z",
+        "updated_at": "2023-08-31T21:08:59.371Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1da1e1d3-7e67-4de7-afa2-1b7bcb0e7896",
+        "collection_list": "Rare Stamps",
+        "wish_list": "Rare Comic Books",
+        "created_at": "2023-09-01T06:45:39.182Z",
+        "updated_at": "2023-09-01T03:46:52.287Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48208896-f2f1-4e99-ba39-ed42d9ee5348",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Fine Art Paintings",
+        "created_at": "2023-09-01T08:42:11.594Z",
+        "updated_at": "2023-08-31T10:00:45.186Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83965f4a-9928-404e-9d74-d71adaf49440",
+        "collection_list": "Classic Cars",
+        "wish_list": "Vintage Wine Bottles",
+        "created_at": "2023-08-31T19:17:41.995Z",
+        "updated_at": "2023-09-01T01:52:08.693Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6d498561-449f-41fa-8047-3b7924b0e2e9",
+        "email": "Sadye10@hotmail.com",
+        "firstName": "Deanna",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39349833",
+        "tenantId": null
+      },
+      {
+        "reference": "7a1abfeb-193f-4c37-b048-569ff205c7db",
+        "email": "Ernestine_Price@yahoo.com",
+        "firstName": "Carmen",
+        "lastName": "O'Kon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29597697",
+        "tenantId": null
+      },
+      {
+        "reference": "02f35878-c4a5-4758-9f66-8f383ddb71fb",
+        "email": "Flavie_Lowe85@yahoo.com",
+        "firstName": "Aurelia",
+        "lastName": "Prosacco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42840044",
+        "tenantId": null
+      },
+      {
+        "reference": "49b68202-a28c-4870-9c85-cbccd9a2ba4b",
+        "email": "Verdie76@yahoo.com",
+        "firstName": "Kacie",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95344659",
+        "tenantId": null
+      },
+      {
+        "reference": "4b33d918-02d8-4db6-8090-8e4677082530",
+        "email": "Tracy_Steuber@gmail.com",
+        "firstName": "Therese",
+        "lastName": "Heidenreich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/751.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "db2f2257-2350-43a4-a443-da582918504f",
+        "figure_name": "Superhero Figure",
+        "created_at": "2023-08-31T15:22:58.144Z",
+        "updated_at": "2023-09-01T06:38:28.981Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "a2683a3e-3aa4-4811-8218-b23d919db483",
+        "figure_name": "Anime Character Figure",
+        "created_at": "2023-09-01T02:54:54.459Z",
+        "updated_at": "2023-09-01T01:10:23.002Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "e161baa2-7d28-4b68-83a5-d72cfdab787e",
+        "figure_name": "Movie Star Figure",
+        "created_at": "2023-08-31T23:30:29.983Z",
+        "updated_at": "2023-09-01T01:20:46.696Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "8c2a903e-ea71-4735-a5a6-669d5d8c2384",
+        "figure_name": "Cartoon Character Figure",
+        "created_at": "2023-09-01T06:49:12.919Z",
+        "updated_at": "2023-08-31T18:51:56.532Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "f6337ade-ad1e-4a58-b282-6ac9d1e71690",
+        "figure_name": "Video Game Character Figure",
+        "created_at": "2023-09-01T00:11:29.916Z",
+        "updated_at": "2023-08-31T09:47:19.261Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "adb43e43-aec1-49bd-86ed-bc407981c10f",
+        "sales_count": 63086,
+        "created_at": "2023-08-31T23:53:52.576Z",
+        "updated_at": "2023-08-31T18:20:22.943Z",
+        "figure_id": "a2683a3e-3aa4-4811-8218-b23d919db483",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "d89bb84b-aaa1-400f-b408-51bfc1c95c26",
+        "sales_count": 68799,
+        "created_at": "2023-08-31T15:18:56.754Z",
+        "updated_at": "2023-08-31T14:44:40.867Z",
+        "figure_id": "f6337ade-ad1e-4a58-b282-6ac9d1e71690",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "16b01fb5-5f6c-4170-a6a8-a28709c11622",
+        "sales_count": 92203,
+        "created_at": "2023-08-31T23:46:04.816Z",
+        "updated_at": "2023-08-31T19:09:15.167Z",
+        "figure_id": "db2f2257-2350-43a4-a443-da582918504f",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "5e2a11ad-38bc-4236-8da9-51a58290c4ea",
+        "sales_count": 39374,
+        "created_at": "2023-08-31T22:28:51.685Z",
+        "updated_at": "2023-08-31T15:12:28.944Z",
+        "figure_id": "8c2a903e-ea71-4735-a5a6-669d5d8c2384",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "c99134d3-fcf2-4760-9c62-32fc420cae67",
+        "sales_count": 55119,
+        "created_at": "2023-09-01T08:03:37.211Z",
+        "updated_at": "2023-08-31T19:12:08.763Z",
+        "figure_id": "a2683a3e-3aa4-4811-8218-b23d919db483",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "9ffe3ee1-0a63-4290-b86f-81d473f339d1",
+        "purchase_date": "2023-09-01T09:26:19.369Z",
+        "created_at": "2023-08-31T18:50:38.596Z",
+        "updated_at": "2023-08-31T10:54:03.029Z",
+        "figure_id": "e161baa2-7d28-4b68-83a5-d72cfdab787e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b38c918c-a4c6-4208-95bc-06664846df7a",
+        "purchase_date": "2023-08-31T17:50:31.156Z",
+        "created_at": "2023-09-01T08:36:55.936Z",
+        "updated_at": "2023-08-31T18:15:05.072Z",
+        "figure_id": "f6337ade-ad1e-4a58-b282-6ac9d1e71690",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78b8e580-c893-41d9-bcb7-41545a3d0d54",
+        "purchase_date": "2023-09-01T02:31:48.832Z",
+        "created_at": "2023-08-31T22:42:40.812Z",
+        "updated_at": "2023-08-31T19:57:35.126Z",
+        "figure_id": "db2f2257-2350-43a4-a443-da582918504f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30eb082e-8a95-4e92-ad40-683d1a1718a6",
+        "purchase_date": "2023-08-31T10:22:10.131Z",
+        "created_at": "2023-08-31T22:48:58.164Z",
+        "updated_at": "2023-08-31T16:04:06.172Z",
+        "figure_id": "db2f2257-2350-43a4-a443-da582918504f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ac5f2b4-abb9-4d1a-a2e5-35aaa04619c6",
+        "purchase_date": "2023-08-31T21:37:06.923Z",
+        "created_at": "2023-08-31T17:19:20.386Z",
+        "updated_at": "2023-09-01T04:00:42.293Z",
+        "figure_id": "f6337ade-ad1e-4a58-b282-6ac9d1e71690",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "63329fbf-b665-40a7-8997-a9166eece8e9",
+        "topic": "Favorite Books",
+        "created_at": "2023-08-31T20:33:02.317Z",
+        "updated_at": "2023-09-01T07:41:20.870Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "058da9eb-5d46-4647-9d56-1200452f2267",
+        "topic": "Travel Experiences",
+        "created_at": "2023-08-31T17:55:10.870Z",
+        "updated_at": "2023-08-31T23:42:07.497Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22ada5a2-82b9-484e-9431-86d5943ef302",
+        "topic": "Latest Movies",
+        "created_at": "2023-08-31T20:25:42.466Z",
+        "updated_at": "2023-08-31T13:22:03.266Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66ea6697-6284-4a82-b888-b45949bfdf2f",
+        "topic": "Healthy Recipes",
+        "created_at": "2023-08-31T13:47:24.780Z",
+        "updated_at": "2023-08-31T16:17:08.308Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2dcfe84b-8a2e-4bec-bcdd-b615b321049f",
+        "topic": "Fitness Tips",
+        "created_at": "2023-08-31T13:16:25.003Z",
+        "updated_at": "2023-09-01T00:49:03.098Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "5364b158-cf66-40cf-b915-b673ca3ae5cc",
+        "collection_list": "Comic Books",
+        "wish_list": "Rare Vinyl Records",
+        "created_at": "2023-08-31T22:23:36.641Z",
+        "updated_at": "2023-09-01T05:09:04.352Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1a8b90d-0089-4a79-bb28-04c90b4dac71",
+        "collection_list": "Stamps",
+        "wish_list": "Limited Edition Sneakers",
+        "created_at": "2023-08-31T21:42:45.960Z",
+        "updated_at": "2023-09-01T05:59:04.061Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "58130f6e-649d-4a51-b277-ad8301374b37",
+        "collection_list": "Coins",
+        "wish_list": "Vintage Posters",
+        "created_at": "2023-09-01T06:20:04.921Z",
+        "updated_at": "2023-08-31T21:19:12.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e9cd893-9986-453f-9caf-66035d40d44a",
+        "collection_list": "Antiques",
+        "wish_list": "Artwork",
+        "created_at": "2023-09-01T05:25:18.299Z",
+        "updated_at": "2023-08-31T11:38:54.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "defd33c0-2e02-4866-a0f0-3c08bb39839b",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Autographed Memorabilia",
+        "created_at": "2023-08-31T14:07:30.597Z",
+        "updated_at": "2023-09-01T00:06:22.530Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d9db91df-b69c-4339-83ce-8eea80b49b59",
+        "email": "Ludwig.Price79@hotmail.com",
+        "firstName": "Gabriella",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78386164",
+        "tenantId": null
+      },
+      {
+        "reference": "c6f21720-763b-4b3b-aee6-3096d0020e3e",
+        "email": "Jedediah.Schuppe@yahoo.com",
+        "firstName": "Hadley",
+        "lastName": "Schulist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1063.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "30d13b41-bb6a-435e-b9d7-8db6f9706ae6",
+        "email": "Dallin_OKon70@yahoo.com",
+        "firstName": "Kendall",
+        "lastName": "Feil-Jenkins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17708355",
+        "tenantId": null
+      },
+      {
+        "reference": "5c4ec7ca-8380-4bfa-a481-1ae053df186e",
+        "email": "Lavern.Medhurst@yahoo.com",
+        "firstName": "Dejah",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/182.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "78d53c84-06e9-4aab-b497-49e2adf05466",
+        "email": "Elroy.Gottlieb73@hotmail.com",
+        "firstName": "Laurence",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39127757",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "figure_inventory": [
+      {
+        "id": "056901cd-05d1-4f09-950b-0669427d2989",
+        "figure_name": "Superhero",
+        "created_at": "2023-09-01T05:14:17.622Z",
+        "updated_at": "2023-08-31T21:51:59.945Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "63d36315-2526-4ef7-aed6-e9316d92473d",
+        "figure_name": "Anime Character",
+        "created_at": "2023-08-31T23:45:32.837Z",
+        "updated_at": "2023-09-01T06:04:31.725Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "aaa656d3-33f4-453d-acb9-078dd0802553",
+        "figure_name": "Movie Star",
+        "created_at": "2023-08-31T16:07:33.512Z",
+        "updated_at": "2023-08-31T18:53:20.092Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "fed349fb-3087-4b3d-849f-c6389e57e013",
+        "figure_name": "Cartoon Character",
+        "created_at": "2023-08-31T12:58:50.284Z",
+        "updated_at": "2023-09-01T09:19:20.371Z",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "7dd6fc98-5a43-4b2c-be78-13b0097621af",
+        "figure_name": "Historical Figure",
+        "created_at": "2023-08-31T19:33:14.713Z",
+        "updated_at": "2023-09-01T04:13:38.254Z",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "sales_analytics": [
+      {
+        "id": "c17cafcc-ec7d-475a-baf2-01f84280c7fb",
+        "sales_count": 69246,
+        "created_at": "2023-08-31T10:52:43.939Z",
+        "updated_at": "2023-08-31T09:41:55.580Z",
+        "figure_id": "7dd6fc98-5a43-4b2c-be78-13b0097621af",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "538a1c80-c871-471a-a44d-a75bfc029eef",
+        "sales_count": 80879,
+        "created_at": "2023-08-31T18:12:17.963Z",
+        "updated_at": "2023-08-31T12:09:00.102Z",
+        "figure_id": "fed349fb-3087-4b3d-849f-c6389e57e013",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "340c5bcb-30c6-491a-b3ff-509d52689171",
+        "sales_count": 66245,
+        "created_at": "2023-08-31T16:51:30.355Z",
+        "updated_at": "2023-09-01T02:46:36.941Z",
+        "figure_id": "63d36315-2526-4ef7-aed6-e9316d92473d",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "a8bdb9a4-9185-418d-988f-daae01cdcc5a",
+        "sales_count": 83735,
+        "created_at": "2023-09-01T07:25:25.118Z",
+        "updated_at": "2023-08-31T15:41:18.888Z",
+        "figure_id": "056901cd-05d1-4f09-950b-0669427d2989",
+        "store_id": "main_entity_pk"
+      },
+      {
+        "id": "faaf505b-b559-45a9-910c-ce609201d49a",
+        "sales_count": 2924,
+        "created_at": "2023-09-01T04:37:39.395Z",
+        "updated_at": "2023-09-01T01:24:13.229Z",
+        "figure_id": "7dd6fc98-5a43-4b2c-be78-13b0097621af",
+        "store_id": "main_entity_pk"
+      }
+    ],
+    "purchase_history": [
+      {
+        "id": "d549a45c-e7d5-480a-8cc9-efa571ea5e36",
+        "purchase_date": "2023-09-01T07:31:23.388Z",
+        "created_at": "2023-09-01T09:19:20.936Z",
+        "updated_at": "2023-09-01T02:57:42.480Z",
+        "figure_id": "fed349fb-3087-4b3d-849f-c6389e57e013",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20d9a393-81a2-40ea-8acf-162de5c2e617",
+        "purchase_date": "2023-08-31T23:10:24.365Z",
+        "created_at": "2023-09-01T08:03:57.389Z",
+        "updated_at": "2023-08-31T17:47:01.016Z",
+        "figure_id": "63d36315-2526-4ef7-aed6-e9316d92473d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aae5274f-b8ef-48ee-aeaf-26c8b6bea15d",
+        "purchase_date": "2023-08-31T13:11:33.888Z",
+        "created_at": "2023-08-31T10:46:03.132Z",
+        "updated_at": "2023-08-31T12:15:40.099Z",
+        "figure_id": "056901cd-05d1-4f09-950b-0669427d2989",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbb16fdc-99d9-4945-9e0a-418217d72c57",
+        "purchase_date": "2023-08-31T15:08:28.837Z",
+        "created_at": "2023-09-01T07:35:27.409Z",
+        "updated_at": "2023-08-31T22:55:16.465Z",
+        "figure_id": "7dd6fc98-5a43-4b2c-be78-13b0097621af",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "028e0bf2-b9c4-4b66-ba5e-6cb488ede27d",
+        "purchase_date": "2023-08-31T15:01:25.417Z",
+        "created_at": "2023-08-31T17:53:30.386Z",
+        "updated_at": "2023-09-01T07:15:06.139Z",
+        "figure_id": "056901cd-05d1-4f09-950b-0669427d2989",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "discussion_board": [
+      {
+        "id": "0a0c9b11-9c56-4ee5-878a-3869279ef6ae",
+        "topic": "Favorite TV Shows",
+        "created_at": "2023-08-31T15:49:37.302Z",
+        "updated_at": "2023-08-31T10:04:11.308Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca120f2d-5fbf-4345-9eb4-36a1660c6111",
+        "topic": "Latest Fashion Trends",
+        "created_at": "2023-09-01T08:39:00.512Z",
+        "updated_at": "2023-08-31T16:58:00.261Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26857010-ddbf-4e94-8e20-fdb20ab5e518",
+        "topic": "Comic Book Recommendations",
+        "created_at": "2023-08-31T23:45:32.527Z",
+        "updated_at": "2023-08-31T21:36:26.309Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29d294b5-6dd4-45d5-ae57-05af0e8e1329",
+        "topic": "Travel Destinations",
+        "created_at": "2023-09-01T00:27:38.559Z",
+        "updated_at": "2023-09-01T03:54:34.321Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b05a11da-c8f3-4846-a43a-1f7261140ff4",
+        "topic": "Book Club Discussions",
+        "created_at": "2023-08-31T21:59:35.213Z",
+        "updated_at": "2023-09-01T05:04:07.219Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "collector_profile": [
+      {
+        "id": "f6d1d795-c73a-48ae-87bc-b7ecdeeeaabf",
+        "collection_list": "Action Figures",
+        "wish_list": "Rare Artwork",
+        "created_at": "2023-08-31T15:45:24.239Z",
+        "updated_at": "2023-09-01T09:12:55.087Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3abded1d-1734-47d6-9dcc-f19c5e16a51a",
+        "collection_list": "Stamps",
+        "wish_list": "Limited Edition Books",
+        "created_at": "2023-09-01T07:04:48.467Z",
+        "updated_at": "2023-08-31T12:53:27.598Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d6806df-90d3-4bcb-a472-13c2f56790be",
+        "collection_list": "Coins",
+        "wish_list": "Vintage Vinyl Records",
+        "created_at": "2023-08-31T23:25:03.268Z",
+        "updated_at": "2023-09-01T02:18:00.863Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d273d10d-cbf2-45ac-85f2-1a93bb6848bd",
+        "collection_list": "Antiques",
+        "wish_list": "Classic Movie Posters",
+        "created_at": "2023-09-01T08:48:20.532Z",
+        "updated_at": "2023-08-31T10:14:58.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7b4247d-2111-436e-84bd-ccbe3ddaa543",
+        "collection_list": "Sports Memorabilia",
+        "wish_list": "Historical Documents",
+        "created_at": "2023-08-31T23:04:50.425Z",
+        "updated_at": "2023-08-31T21:21:23.904Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2019f30f-8f41-4e7a-85f7-9f8bdfa266be",
+        "email": "Tianna_Russel68@gmail.com",
+        "firstName": "Zackery",
+        "lastName": "Treutel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/853.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c2527bd9-2b7d-45a1-8135-7b780ca9a7e2",
+        "email": "Addie51@yahoo.com",
+        "firstName": "Maida",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1100.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ea125daa-f181-42eb-b8e3-b81fc2bc263e",
+        "email": "Felipa32@gmail.com",
+        "firstName": "Winnifred",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67999432",
+        "tenantId": null
+      },
+      {
+        "reference": "bb367584-8e9a-4407-8b5d-897e0e8a56ab",
+        "email": "Libbie_Yost11@yahoo.com",
+        "firstName": "Moriah",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/135.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a223cab6-c495-4057-b2c6-e867a1eba79d",
+        "email": "Abdul44@gmail.com",
+        "firstName": "Urban",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/859.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
